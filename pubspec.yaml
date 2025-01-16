@@ -1,7 +1,7 @@
 name: secure_pin_entry
 description: "A customizable Flutter widget for secure PIN entry"
 version: 0.0.1
-homepage: https://github.com/username/secure_pin_entry
+homepage: https://github.com/312serega/secure_pin_entry/
 
 environment:
   sdk: '>=3.3.3 <4.0.0'
